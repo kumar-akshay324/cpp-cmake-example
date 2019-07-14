@@ -1,11 +1,12 @@
 # Prerequisites
 *.d
 
-# Compiled Object files
+# Compiled Object files/locations
 *.slo
 *.lo
 *.o
 *.obj
+build/
 
 # Precompiled Headers
 *.gch
